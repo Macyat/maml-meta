@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+matplotlib
+scikit-learn
+imbalanced-learn
+lightgbm
+scipy
+PyWavelets
+pylint
+pytest
+black
+click
+pytest-cov
+statsmodels
